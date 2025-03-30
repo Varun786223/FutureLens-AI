@@ -1,52 +1,69 @@
+# Welcome to your Lovable project
 
-# FutureLens: AI-Predicted Life Simulator
+## Project info
 
-*Predict your future with AI.* FutureLens is a web platform that takes your current life details—age, career, goals—and generates an interactive timeline of your predicted life path over 5, 10, or 20 years. Built with React Native, Fastify, and AI/ML, it’s a showcase of modern web development and data science.
+**URL**: https://lovable.dev/projects/98a50dec-7f6d-40ac-b435-4359c18bdfc1
 
----
+## How can I edit this code?
 
-## What It Does
-FutureLens simulates your future based on what you input today. Enter your job, education, and ambitions, and watch AI craft a personalized timeline of milestones—like promotions, relocations, or achievements. Tweak variables to explore "what if" scenarios and get actionable insights.
+There are several ways of editing your application.
 
----
+**Use Lovable**
 
-## Features
-- *Life Input Form*: Add age, job, industry, education, and 1-3 goals (e.g., "Become a manager").
-- *Future Timeline*: Scrollable, interactive display of predicted milestones with details on hover.
-- *What-If Tweaks*: Adjust inputs (e.g., "Add a degree") to see alternate futures in real-time.
-- *Insights Panel*: AI-driven tips and probabilities (e.g., "80% chance of a raise by 2030").
-- *Share Option*: Export your timeline or share it directly to LinkedIn.
+Simply visit the [Lovable Project](https://lovable.dev/projects/98a50dec-7f6d-40ac-b435-4359c18bdfc1) and start prompting.
 
----
+Changes made via Lovable will be committed automatically to this repo.
 
-## Tech Stack
-- *Frontend*: React Native (UI), D3.js (visuals), Tailwind CSS (styling).
-- *Backend*: Fastify (API), Neo4j (graph database for life events).
-- *AI/ML*: 
-  - XGBoost (numerical predictions like income).
-  - Hugging Face NLP (goal parsing, e.g., "Start a business").
-  - Trained on open career and census data.
+**Use your preferred IDE**
 
----
+If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
-## How It Works
-1. Input your details in a quick form.
-2. AI processes data—XGBoost for stats, NLP for goals.
-3. See your future on an animated timeline.
-4. Tweak variables and share your results.
+The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
+Follow these steps:
 
----
+```sh
+# Step 1: Clone the repository using the project's Git URL.
+git clone <YOUR_GIT_URL>
 
-## Why I Built It
-FutureLens blends AI, fullstack dev, and frontend design into a tool that’s both fun and useful. It’s my take on where tech can take us—perfect for LinkedIn’s career-focused crowd.
+# Step 2: Navigate to the project directory.
+cd <YOUR_PROJECT_NAME>
 
----
+# Step 3: Install the necessary dependencies.
+npm i
 
-## Future Plans
-- Add user accounts to save predictions.
-- Integrate real-time career data from LinkedIn/X.
-- Expand AI with deeper scenario analysis.
+# Step 4: Start the development server with auto-reloading and an instant preview.
+npm run dev
+```
 
----
+**Edit a file directly in GitHub**
 
+- Navigate to the desired file(s).
+- Click the "Edit" button (pencil icon) at the top right of the file view.
+- Make your changes and commit the changes.
+
+**Use GitHub Codespaces**
+
+- Navigate to the main page of your repository.
+- Click on the "Code" button (green button) near the top right.
+- Select the "Codespaces" tab.
+- Click on "New codespace" to launch a new Codespace environment.
+- Edit files directly within the Codespace and commit and push your changes once you're done.
+
+## What technologies are used for this project?
+
+This project is built with .
+
+- Vite
+- TypeScript
+- React
+- shadcn-ui
+- Tailwind CSS
+
+## How can I deploy this project?
+
+Simply open [Lovable](https://lovable.dev/projects/98a50dec-7f6d-40ac-b435-4359c18bdfc1) and click on Share -> Publish.
+
+## I want to use a custom domain - is that possible?
+
+We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
