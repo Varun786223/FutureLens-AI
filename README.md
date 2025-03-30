@@ -49,11 +49,4 @@ FutureLens blends AI, fullstack dev, and frontend design into a tool that’s bo
 - Expand AI with deeper scenario analysis.
 
 ---
-![Screenshot (55)](https://github.com/user-attachments/assets/ce44c1bc-c4c3-4789-a929-892077e1bfe2)
-![Screenshot (54)](https://github.com/user-attachments/assets/d599478e-7382-4e88-8d37-bb5d05d03fdc)
-![Screenshot (53)](https://github.com/user-attachments/assets/ae6f84d2-f123-4876-8cb2-57982dac26c1)
-![Screenshot (52)](https://github.com/user-attachments/assets/95e8df2c-4804-47d3-9a15-ceda3c8c5f4d)
-![Screenshot (51)](https://github.com/user-attachments/assets/5a4b97a7-f6f4-4846-a70e-802d2b0dd15b)
-![Screenshot (50)](https://github.com/user-attachments/assets/ea817b01-dbcc-48e8-8eb8-4e4a811245d7)
-![Screenshot (49)](https://github.com/user-attachments/assets/87005183-a767-4ac7-9a06-bfeaa168670c)
-![Screenshot (48)](https://github.com/user-attachments/assets/85b0d0c5-5535-45fe-9df1-3ca8573cc3e1)
+
